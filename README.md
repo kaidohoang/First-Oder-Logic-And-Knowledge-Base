@@ -1,11 +1,12 @@
 # First-Oder-Logic-And-Knowledge-Base
 
 Repo này được tạo cho môn Trí tuệ nhân tạo INT3401_20 của nhóm 4
+
 This repo is created for INT3401_20 of group 4
 
 ## Mục lục
-- [First Order Logic]
-- [Knowledge Base]
+- [First Order Logic](#first-order-logic)
+- [Knowledge Base](#knowledge-base)
 
 ## First Order Logic
 **First Order Logic** (FOL), hay Logic vị từ cấp 1, là một hình thức biểu diễn được sử dụng trong khoa học, cung cấp một khuôn khổ để định nghĩa các tuyên bố logic về các đối tượng và mối quan hệ của chúng.
