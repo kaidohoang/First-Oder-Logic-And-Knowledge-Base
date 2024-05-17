@@ -1,8 +1,8 @@
-# First-Oder-Logic-And-Knowledge-Base
+# First-Order-Logic-And-Knowledge-Base
 
-Repo này được tạo cho môn Trí tuệ nhân tạo INT3401_20 của nhóm 4
+Report này được tạo cho môn Trí tuệ nhân tạo INT3401_20 của nhóm 4
 
-This repo is created for INT3401_20 of group 4
+This report is created for INT3401_20 of group 4
 
 ## Mục lục
 - [First Order Logic](#first-order-logic)
